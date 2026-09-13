@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hallo, ich bin Ismail!
 
-<!--
-**isham002/isham002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich absolviere aktuell meine **Bachelorarbeit im Studiengang Informatik** mit dem Schwerpunkt **Anwendungsentwicklung** und dem Wahlpflichtbereich **Systemintegration**. 
 
-Here are some ideas to get you started:
+🎯 **Status:** Ab sofort verfügbar für Einstiegspositionen als Software-Entwickler / DevOps Engineer in Vollzeit (Einstieg parallel zur Abschlussarbeit)!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Tech-Stack & IT-Kompetenzen
+
+* **Programmiersprachen:** `Java` | `Dart`
+* **Software-Engineering & UI:** `Flutter` | `JavaFX` | `AtlantaFX` | `MVVM` | `JPA / Hibernate (ORM)`
+* **Datenbanken:** `PostgreSQL` | `Firebase (Firestore)` | `Datenmodellierung`
+* **Systemintegration & Linux:** `Linux-Systemverwaltung` | `Shell-Scripting (Bash)`
+* **Netzwerkinfrastruktur:** `Routing & IP-Subnetting` | `TCP/IP` | `VPN (ZeroTier SDN)`
+* **Tools & QA:** `Git` | `Maven` | `JUnit (Unit-Testing)`
+
+---
+
+### 💻 Ausgewählte Vorzeigeprojekte
+
+* **[📱 Vokabeltrainer App](https://github.com):** Cross-Platform Mobile App mit automatisiertem Kamera-Import (Google ML Kit OCR) und reaktiven Gamification-Elementen (Firebase).
+* **[🏫 Schul-Planer Pro 2026](https://github.com):** Desktop-ERP-System zur Raum- und Stundenplanung mit strikter MVVM-Architektur und verteilter PostgreSQL-Datenbank.
+
+---
+
+📬 **Kontakt:** Vernetze dich gerne mit mir hier auf GitHub oder schreib mir eine Nachricht für den Austausch!
