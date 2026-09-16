@@ -20,7 +20,7 @@ Ich absolviere aktuell meine **Bachelorarbeit im Studiengang Informatik** mit de
 ### 💻 Ausgewählte Vorzeigeprojekte
 
 * **[📱 Vokabeltrainer App](https://github.com/isham002/vokabeltrainer):** Cross-Platform Mobile App mit automatisiertem Kamera-Import (Google ML Kit OCR) und reaktiven Gamification-Elementen (Firebase).
-* **[🏫 Schul-Planer Pro 2026]([https://github.com](https://github.com/isham002/RaumVerwaltung)):** Desktop-ERP-System zur Raum- und Stundenplanung mit strikter MVVM-Architektur und verteilter PostgreSQL-Datenbank.
+* **[🏫 Schul-Planer Pro 2026](https://github.com/isham002/RaumVerwaltung)):** Desktop-ERP-System zur Raum- und Stundenplanung mit strikter MVVM-Architektur und verteilter PostgreSQL-Datenbank.
 
 ---
 
